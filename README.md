@@ -4,7 +4,7 @@ Alpha
 
 What does it do
 ---------------
-* It uses Google's speech to text and text to speech engines to interact with the users.
+* It uses Sppech recogntion and text to speech engines to interact with the users.
 * It can open some website for you such as Google, Facebook,gmail and search on youtube
 * It can do basic mathematics
 * It can search for information on Wikipedia. "Search Microsoft"
